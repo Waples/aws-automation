@@ -12,7 +12,6 @@ The following CI/CD environment variables need to be set:
     - `TEAM`                > The name of the Development Team.
 
 codeauthor: 'gn0mish@protonmail.com'
-version: 1.0
 
 TODO:
     - Write custom botocore waiter for Stack creation.
